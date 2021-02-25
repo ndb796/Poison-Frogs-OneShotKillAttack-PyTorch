@@ -9,7 +9,7 @@
 
 ### How does this attack work?
 
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109209751-4137d800-77ef-11eb-8274-63c3e66d6b0b.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/109209616-19e10b00-77ef-11eb-81b4-8cb61a337b0d.png"/>
 
 ### How to generate poison image?
 
