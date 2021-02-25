@@ -4,8 +4,8 @@
 
 ### (Source Codes) PyTorch Implementation: One-Shot Kill Poison Attack
 
-1. One Shot Kill Poison Attack: Targeted Clean-Label Poisoning Attacks <b>(ResNet)</b>
-2. One Shot Kill Poison Attack: Targeted Clean-Label Poisoning Attacks <b>(AlexNet)</b>
+1. [One Shot Kill Poison Attack: Targeted Clean-Label Poisoning Attacks <b>(ResNet)</b>](%5BOne_Shot_Kill_Poison_Attack%5D_Poison_Frogs_Targeted_Clean_Label_Poisoning_Attacks_(AlexNet).ipynb)
+2. [One Shot Kill Poison Attack: Targeted Clean-Label Poisoning Attacks <b>(AlexNet)</b>](%5BOne_Shot_Kill_Poison_Attack%5D_Poison_Frogs_Targeted_Clean_Label_Poisoning_Attacks_(ResNet).ipynb)
 
 ### How does this attack work?
 
