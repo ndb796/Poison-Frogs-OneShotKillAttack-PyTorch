@@ -9,11 +9,11 @@
 
 ### How does this attack work?
 
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109209616-19e10b00-77ef-11eb-81b4-8cb61a337b0d.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/109210717-8f011000-77f0-11eb-8b5f-53cf98736f49.png"/>
 
 ### How to generate poison image?
 
-<img width="70%" src="https://user-images.githubusercontent.com/16822641/109209783-4b59d680-77ef-11eb-927d-d940b693464d.png"/>
+<img width="70%" src="https://user-images.githubusercontent.com/16822641/109210734-96c0b480-77f0-11eb-8a72-bc84925d292d.png"/>
 
 ### References
 
