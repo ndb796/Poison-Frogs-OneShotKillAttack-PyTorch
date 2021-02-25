@@ -2,6 +2,10 @@
 
 > Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
 
+* This repository provides simple PyTorch implementations for a <b>One-Shot Kill Attack</b> method.
+* This repository shows attack success rates that are similar to the success rates in the original paper.
+* If you have questions about this repository, please send an e-mail to me (dongbinna@postech.ac.kr) or make an issue.
+
 ### (Source Codes) PyTorch implementation: One-Shot Kill Poison Attack
 
 1. [One-Shot Kill Poison Attack: Targeted Clean-Label Poisoning Attacks <b>(ResNet)</b>](%5BOne_Shot_Kill_Poison_Attack%5D_Poison_Frogs_Targeted_Clean_Label_Poisoning_Attacks_(AlexNet).ipynb)
