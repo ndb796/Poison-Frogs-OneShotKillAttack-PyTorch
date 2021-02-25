@@ -15,6 +15,9 @@
 
 <img width="70%" src="https://user-images.githubusercontent.com/16822641/109210734-96c0b480-77f0-11eb-8a72-bc84925d292d.png"/>
 
+* We assume transfer learning in which the victim model utilizes a pre-trained model as a fixed feature extractor.
+* In this transfer learning situation, the One-Shot Kill Poison Attack shows high attack success rate.
+
 ### References
 
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks, <b>[NIPS 2018](https://arxiv.org/abs/1804.00792)</b>
